@@ -4,7 +4,7 @@
 3. Добавил в файл следующий код:
 ```
 def myfoo():
-    author = "" # Здесь обознаться своё имя (авторство модуля)
+    author = "slavniyivt"
     print(f"{author}'s module is imported")
 ```
 4. В папке **rootserver** создал файл **activation_script.py**
